@@ -15,8 +15,8 @@ A lightweight GUI utility for backing up and installing Windows drivers. Designe
 - Python 3.9 or higher
 - PyQt6
 - Must be run as Administrator on Windows
+- 
 -------------------------------------------------------------------------------
-///////////////////////////////////////////////////////////////////////////////
 -------------------------------------------------------------------------------
 
 The birth of this application comes with a story—and in the following section, I’ll be sharing that story with you.
