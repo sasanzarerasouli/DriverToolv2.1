@@ -39,4 +39,5 @@ I rebuilt the entire utility in PyQt6, creating a more intuitive and visually po
 As Farzad puts it: "You just click the green button and you're done!" 😁
 
 This wasn’t just a tool — it became a reliable solution for quick, offline driver backup and restore in time-sensitive environments. Whether you're upgrading Windows, reimaging a system, or working in medical or industrial setups, it saves time, hassle, and potential downtime.
----------------------------------------------------------------------
+
+
