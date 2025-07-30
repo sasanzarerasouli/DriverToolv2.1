@@ -31,7 +31,7 @@ The next day, Farzad used the tool, and it worked like a charm—his task was co
 
 This led to the development of Version 2.1. I enhanced the driver installation process to allow selective installation, enabling users to exclude unnecessary drivers from the list before proceeding. For this version, I wanted a more polished, user-friendly, and visually appealing interface, so I switched to PyQt6 for the UI. I poured my creativity and ingenuity into making this version as intuitive as possible. One key improvement? The app now runs as administrator by default—no more right-clicking and selecting "Run as Administrator." Just double-click, and you’re good to go! 
 
-##As Farzad puts it, “Just hit the green button, and the job’s done!” 😁😁
+As Farzad puts it, “Just hit the green button, and the job’s done!” 😁😁
 
 This tool was born out of necessity and teamwork, and I’m excited to share it with the community. Contributions and feedback are welcome!
 
