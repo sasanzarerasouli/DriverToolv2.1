@@ -12,10 +12,11 @@ A lightweight GUI utility for backing up and installing Windows drivers. Designe
 
 ## Requirements
 
-- Python 3.9 or higher
+- Python 3.3 or higher
 - PyQt6
 - Must be run as Administrator on Windows
-- 
+- VScode
+  
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
 
